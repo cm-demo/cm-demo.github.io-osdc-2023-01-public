@@ -1,7 +1,7 @@
 # Hello World
 
 * Apple
-* Banana
+* Banana **fruits** done
 
 
 @szabgab
