@@ -4,6 +4,7 @@
 * Banana **fruits** done
 * [this leads to about](/about)
 * [Another](/other) line
+* new line
 
 @szabgab
 
